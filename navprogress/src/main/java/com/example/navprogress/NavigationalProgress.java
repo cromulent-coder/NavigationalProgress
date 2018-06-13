@@ -1,4 +1,4 @@
-package com.example.rohitupreti.navigationalprogress;
+package com.example.navprogress;
 
 import android.content.Context;
 import android.content.res.ColorStateList;

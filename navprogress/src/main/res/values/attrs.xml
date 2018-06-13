@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NavigationalProgress">
+        <attr name="navBack" format="reference" />
+        <attr name="navForward" format="reference" />
+        <attr name="progressTabNum" format="integer" />
+        <attr name="progressTabImage" format="reference" />
+    </declare-styleable>
+</resources>
